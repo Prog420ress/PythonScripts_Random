@@ -4,13 +4,14 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>149a93c5-e51b-4ae5-b23c-7d2ea838c81f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PythonScripts_Random.py</StartupFile>
-    <SearchPath>
-    </SearchPath>
+    <StartupFile>ComfyUI\inspect_model.py</StartupFile>
+    <SearchPath>..\..\..\Documents\ComfyUI</SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>PythonScripts_Random</Name>
     <RootNamespace>PythonScripts_Random</RootNamespace>
+    <InterpreterId>
+    </InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
